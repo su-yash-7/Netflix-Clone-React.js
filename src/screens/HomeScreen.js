@@ -1,8 +1,8 @@
 import React from "react";
-import requests from "./Requests";
-import Banner from "./Banner";
-import Nav from "./Nav";
-import Row from "./Row";
+import requests from "../components/Requests";
+import Banner from "../components/Banner";
+import Nav from "../components/Nav";
+import Row from "../components/Row";
 function HomeScreen() {
   return (
     <homeScreen>
