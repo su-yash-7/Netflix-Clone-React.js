@@ -47,7 +47,7 @@
 .signupScreen_gray {
   color: gray;
 }
-.signupScreen__link:hover {
+.signupScreen_link:hover {
   cursor: pointer;
   text-decoration: underline;
 }
